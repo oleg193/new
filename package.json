@@ -1,5 +1,8 @@
 {
   "name": "yarn",
+  "scripts": {
+    "yarn": "start"
+  },
   "installationMethod": "msi",
   "version": "1.22.5",
   "license": "BSD-2-Clause",
